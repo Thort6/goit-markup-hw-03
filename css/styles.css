@@ -357,7 +357,7 @@ list-style: none;
 }
 
 /* section-footer */
-footer {
+.footer {
   width: 100%;
   padding: 60px 0px;
   display: flex;
